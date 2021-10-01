@@ -117,7 +117,7 @@
     "parse5-htmlparser2-tree-adapter": "^6.0.0",
     "pbkit": "^0.0.12",
     "php-parser": "^3.0.0",
-    "postcss": "^7.0.27",
+    "postcss": "^7.0.36",
     "postcss-less": "^3.1.2",
     "postcss-safe-parser": "^4.0.2",
     "postcss-scss": "^2.0.0",
